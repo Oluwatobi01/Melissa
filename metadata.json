@@ -1,0 +1,7 @@
+{
+  "name": "Melissa's Bites N Licks",
+  "description": "A comprehensive food & event app featuring bakery, café dining, yogurt production, and event planning with AI-powered location search.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
